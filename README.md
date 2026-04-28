@@ -4,6 +4,8 @@ The system includes secure authentication with separate dashboards for administr
 Admins can create and manage exams, add questions, and monitor student performance, while students can log in, attend exams, and view their results instantly. 
 The platform also features automatic score evaluation and an AI-based module to assist in generating important questions from the syllabus. 
 Overall, the application focuses on improving efficiency, accuracy, and user experience in online exam management.
+
+
 Tech Stack
 
 Frontend:
